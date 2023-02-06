@@ -20,6 +20,7 @@ public class Fahrkartenautomat {
 			break;
 		}
 		tastatur.close();
+		// test test
 	}
 
 	public static double fahrkartenbestellungErfassen(Scanner tastatur) {
